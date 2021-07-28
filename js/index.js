@@ -97,4 +97,4 @@ submit.addEventListener('click', () => {
         showScore.classList.remove('scoreArea');
 
     }
-});
+
