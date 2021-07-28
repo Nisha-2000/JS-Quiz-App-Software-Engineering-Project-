@@ -4,7 +4,7 @@ Const quizDB = [{
     a: "Hello my land",
     b: "Hey text markup language",
     c: "HyperText Markup Language",
-    d: "HyperText Makeup Language",
+    d: "",
     ans1: "ans3"
 
 
