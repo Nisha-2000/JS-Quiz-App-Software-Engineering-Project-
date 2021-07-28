@@ -1,7 +1,7 @@
 // Software Engineering Project
 Const quizDB = [{
     question: "Q1:What is the full form of HTML?",
-    a: "Hello to my land",
+    a: "Hello my land",
     b: "Hey text markup language",
     c: "HyperText Markup Language",
     d: "HyperText Makeup Language",
